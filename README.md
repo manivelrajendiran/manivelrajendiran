@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manivelrajendiran
-- 👀 I’m interested in Infrastructure Maintenance and Support
-- 🌱 I’m currently learning Cloud Computing and Containerization
-- 💞️ I’m looking to collaborate on LinkedIn and Facebook
+- 👀 I’m interested in Infrastructure Skills
+- 🌱 I’m currently learning latest trends in Cloud Computing, Containerization and Security
+- 💞️ I’m looking to collaborate with every human who has the passion to share knowledge.
 - 📫 You can reach me at manivel1987@gmail.com
 
 <!---
